@@ -1,0 +1,12 @@
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.dll
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.pdb
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.csprojAssemblyReference.cache
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.dll
+C:/C#/פרוייקטים/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.pdb
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.dll
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.pdb
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.csprojAssemblyReference.cache
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.dll
+/Users/hadarisraeli1/Desktop/Hadar/cs/year2/Cֳ#/Projects/B20 Ex03 HadarIsraeli 316305259 ShirazViner 206093189/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.pdb
